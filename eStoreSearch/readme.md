@@ -1,6 +1,5 @@
 # ASSIGNMENT 1 README
     Student Name: Rehan Nagoor Mohideen
-    Student ID: 1100592
 
 ## Description
     This program is an EStoreSearch. The user can add either a Book product or an Electronic
